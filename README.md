@@ -9,7 +9,6 @@
 ## About me
 
 - 🔭 I am a **backend developer** and also an open-source enthusiast.
-- Born in 2003, this is my 6th year in the industry
 - I like open source and am currently learning PHP and golang as well as c/c++ languages
 
 
