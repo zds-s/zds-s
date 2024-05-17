@@ -1,10 +1,4 @@
-### Hi , I'm ZhuYan. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&pause=1000&random=false&width=435&lines=Being+content+and+not+knowing+enough)](https://git.io/typing-svg)
-
-</div>
+### Hi , I'm ZhuYan.
 
 ## About me
 
